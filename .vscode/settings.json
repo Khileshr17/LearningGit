@@ -1,8 +1,0 @@
-{
-    "workbench.editor.enablePreview": false,
-    "workbench.colorCustomizations": {
-        "terminal.foreground": "#b926d6",
-        "terminalCursor.foreground": "#656565"
-    }
-
-}
